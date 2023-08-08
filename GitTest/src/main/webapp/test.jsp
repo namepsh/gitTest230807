@@ -7,6 +7,6 @@
 <title>test.jsp</title>
 </head>
 <body>
-
+<h2>git 수정</h2>
 </body>
 </html>
